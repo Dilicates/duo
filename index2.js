@@ -8,7 +8,7 @@ const user = new SteamUser();
 
 const logOnOptions = {
 
-	accountName: 'whyskyholyday',  //Enter here your account login
+	accountName: 'dimon74727',  //Enter here your account login
 
 	password: '3152230760000Isa'		 //Enter your password
 
